@@ -56,6 +56,7 @@ export default class ScoreKeeper extends Component {
 	render() {
 		return (
 			<div className="ScoreKeeper">
+				<h1>Updating Existing State</h1>
 				<h1>Score: {this.state.score}</h1>
 				<button onClick={this.handleAddOne}>Add 1 Point</button>
 				<button onClick={this.handleAddThree}>Add 3 Point</button>

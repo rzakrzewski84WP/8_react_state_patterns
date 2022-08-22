@@ -1,6 +1,11 @@
 /** @format */
+.ScoreKeeper {
+	border: 1px solid black;
+	margin-bottom: 10px;
+}
 
 .ScoreKeeper button {
 	margin-right: 5px;
+	margin-bottom: 5px;
 	padding: 5px;
 }
