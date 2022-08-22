@@ -1,6 +1,7 @@
 /** @format */
 
 import React, { Component } from 'react';
+import './IconsList.css';
 
 export default class IconsList extends Component {
 	static defaultProps = {
